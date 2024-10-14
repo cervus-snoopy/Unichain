@@ -14,7 +14,7 @@
 ## Repository Setup 
 
 ```
-wget https://raw.githubusercontent.com/furidngrt/Unichain-Node/refs/heads/master/unichain.sh
+wget https://raw.githubusercontent.com/cervus-snoopy/Unichain-Node/refs/heads/master/unichain.sh
 chmod +x unichain.sh
 ./unichain.sh
 ```
